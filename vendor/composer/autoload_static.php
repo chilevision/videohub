@@ -9,12 +9,12 @@ class ComposerStaticInitb48f56fc2a753db80bcc7ca256f87012
     public static $prefixLengthsPsr4 = array (
         'C' => 
         array (
-            'Chilevision\\BlackmagicVideohubPhpLibrary\\' => 41,
+            'Chilevision\\videohub\\' => 41,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Chilevision\\BlackmagicVideohubPhpLibrary\\' => 
+        'Chilevision\\videohub\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

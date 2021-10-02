@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Chilevision\\BlackmagicVideohubPhpLibrary\\' => array($baseDir . '/src'),
+    'Chilevision\\videohub\\' => array($baseDir . '/src'),
 );
